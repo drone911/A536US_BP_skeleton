@@ -1,0 +1,6 @@
+In function RohcDeCompRModeState::RohcDeCompRModeState
+In function RohcDeCompRModeState::SetLastPacketType
+In function RohcDeCompRModeState::GetLastPacketType
+In function RohcDeCompRModeState::GetTypeTwoPktCntt
+In function RohcDeCompRModeState::IncrTypeTwoPktCntt
+In function RohcDeCompRModeState::ResetTypeTwoPacketCount

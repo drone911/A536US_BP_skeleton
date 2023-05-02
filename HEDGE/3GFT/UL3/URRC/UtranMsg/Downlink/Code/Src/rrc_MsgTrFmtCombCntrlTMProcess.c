@@ -1,0 +1,2 @@
+msgSendIndicationToConsumer: generate indication FAILED!
+TrFmtCombCntrl_TM Initial Process

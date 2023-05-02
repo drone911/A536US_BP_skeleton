@@ -1,0 +1,20 @@
+[SIPC_1_SAT] Rx NS_USAT_SEND_ENVELOPE_RSP (Result=0x%X)
+[SIPC_0_SAT] Rx NS_USAT_SEND_ENVELOPE_RSP (Result=0x%X)
+[SIPC_1_SAT] Rx NS_USAT_SEND_TERMINAL_RESPONSE_RSP (Result=0x%X)
+[SIPC_0_SAT] Rx NS_USAT_SEND_TERMINAL_RESPONSE_RSP (Result=0x%X)
+[SIPC_1_SAT] Rx NS_USAT_GET_IMAGE_CLUT_RSP (Result=0x%X)
+[SIPC_0_SAT] Rx NS_USAT_GET_IMAGE_CLUT_RSP (Result=0x%X)
+[SIPC_1_SAT] Rx NS_USAT_REFRESH_STATE_IND : state %d, mode %d
+[SIPC_0_SAT] Rx NS_USAT_REFRESH_STATE_IND : state %d, mode %d
+[SIPC_1_SAT] SIM initialization isn't completed yet
+[SIPC_0_SAT] SIM initialization isn't completed yet
+[SIPC_1_SAT] Rx NS_USAT_SEND_IMSI_REFRESH (IMSI Len=%d)
+[SIPC_0_SAT] Rx NS_USAT_SEND_IMSI_REFRESH (IMSI Len=%d)
+[SIPC_1_SAT] IMSI
+[SIPC_0_SAT] IMSI
+[SIPC_1_SAT] Invalid IMSI length
+[SIPC_0_SAT] Invalid IMSI length
+[SIPC_1_SAT] Sending PB init Complete Status
+[SIPC_0_SAT] Sending PB init Complete Status
+[SIPC_1_SAT] Rx NS_USAT_REFRESH_VOTE_IND : RefreshMode=%d
+[SIPC_0_SAT] Rx NS_USAT_REFRESH_VOTE_IND : RefreshMode=%d

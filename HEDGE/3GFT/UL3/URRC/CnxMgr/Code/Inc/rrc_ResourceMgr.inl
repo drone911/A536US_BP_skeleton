@@ -1,0 +1,9 @@
+rrc_ResourceMgr_GetPreSuspenedTimerStatus : Timer_Status = T314 and T315 both Running
+rrc_ResourceMgr_GetPreSuspenedTimerStatus : Timer_Status = T314 Running
+rrc_ResourceMgr_GetPreSuspenedTimerStatus : Timer_Status = T315 Running
+rrc_ResourceMgr_GetPreSuspenedTimerStatus : Timer_Status = T314 and T315 both Running
+rrc_ResourceMgr_GetPreSuspenedTimerStatus : Timer_Status = T314 Running
+rrc_ResourceMgr_GetPreSuspenedTimerStatus : Timer_Status = T315 Running
+rrc_ResourceMgr_GetPreSuspenedTimerStatus : Timer_Status = T314 and T315 both Running
+rrc_ResourceMgr_GetPreSuspenedTimerStatus : Timer_Status = T314 Running
+rrc_ResourceMgr_GetPreSuspenedTimerStatus : Timer_Status = T315 Running

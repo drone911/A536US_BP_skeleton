@@ -1,0 +1,1 @@
+QnaCircle: %d

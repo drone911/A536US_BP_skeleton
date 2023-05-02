@@ -1,0 +1,1 @@
+[HALPKTP][WARNING]NullFunc()!!

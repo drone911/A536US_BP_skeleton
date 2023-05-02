@@ -1,0 +1,1 @@
+newCmat mem allocation fail

@@ -1,0 +1,8 @@
+[RF ET][AT CMD] Read current DPD command is received err(%d)
+[RF ET][AT CMD] Read current SF command is received err(%d)
+[RF ET][AT CMD] Read current RGT command is received err(%d)
+[RF ET][AT CMD] Read current BW offset command is received err(%d)
+[RF ET][AT CMD] Read current delay command is received err(%d)
+[RF ET][AT CMD] Received ET_CMD_GET_POWER_COMP_STATUS command err(%d)
+[RF ET][AT CMD] Get LAT ver command is received err(%d)
+[RF ET][AT CMD] Read current LAT command is received err(%d)

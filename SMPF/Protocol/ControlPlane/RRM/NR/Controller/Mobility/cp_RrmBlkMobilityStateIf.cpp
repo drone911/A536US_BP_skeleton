@@ -1,0 +1,2 @@
+RrmBlkMobilityStateIf::RrmBlkMobilityStateIf()
+RrmBlkMobilityStateIf::~RrmBlkMobilityStateIf()

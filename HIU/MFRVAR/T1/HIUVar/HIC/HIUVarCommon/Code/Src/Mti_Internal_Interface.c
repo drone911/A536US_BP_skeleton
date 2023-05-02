@@ -1,0 +1,5 @@
+Not supported mtiAtiSendDeviceTestInd in HOST_IF_TYPE2
+Not supported mtiProcDefaultCfgAPO in HOST_IF_TYPE2
+Not supported mtigetcallstatus in HOST_IF_TYPE2
+Not supported mtiProcIMEIUpdateItemInd in HOST_IF_TYPE2
+Not supported mtiAtiSendIMEIInd in HOST_IF_TYPE2

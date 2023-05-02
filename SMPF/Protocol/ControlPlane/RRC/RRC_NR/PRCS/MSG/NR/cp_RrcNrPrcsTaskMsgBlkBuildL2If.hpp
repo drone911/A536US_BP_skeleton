@@ -1,0 +1,3 @@
+%s
+%s
+GetBuildRslt : %d

@@ -1,0 +1,8 @@
+(F) Invalid CSI-RS port configuration. cdm_type(%d), port_num(%d)
+(F) Invalid CSI-RS EC BUF configuration. nzp_num(%d), nzp_idx(%d), buf_ptr(%d)
+(F) Invalid CSI-RS PDP BUF configuration. nzp_num(%d)
+cc%d nzp csi-rs(rel10): nzpNPort/on(%02x), nzpSfCfg(%d), nzpCfg(%d), bitmap0/1/2(0x%08x %08x %04x)
+cc%d zp csi-rs(rel10): on(%d), zpSfCfg(%d), zpCfgBmp(0x%x), bitmap0/1/2(0x%08x %08x %04x)
+(F)# of CSI-RS config. exceeds Max. (NZP:%d, ZP:%d)
+CSI_isCsiRsSubframe, f_idx/sf_idx/cck(%08x), atti80/csirsType/TMmode(%08x), bitmapIdx/ttiOffsetBitPos(%08x), csirsExist(%d), csirsExistBitmap_nzp(%d), csirsExistBitmap_zp(%d), csirsExistBitmap_im(%d)
+TD: cck(%d), CSI_RS_LOC0000(0x%x, 0x%x, 0x%x, 0x%x), CSI_RS_LOC2225(0x%x, 0x%x, 0x%x, 0x%x)

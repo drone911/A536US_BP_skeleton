@@ -1,0 +1,5 @@
+Enter svc_log_file_save() msg_type(%d)
+svc_log_file_save() rfs_open_file(%d)
+svc_log_file_save() max_file_size(%d) log size(%d)
+Enter svc_log_save() msg_type(%d)
+svc_log_save() gettime(%d %d %d)

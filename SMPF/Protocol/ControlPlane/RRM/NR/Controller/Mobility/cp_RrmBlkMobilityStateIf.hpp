@@ -1,0 +1,2 @@
+RrmBlkMobilityStateIf::SetCurTimestamp()
+RrmBlkMobilityStateIf::CheckMobilityState()

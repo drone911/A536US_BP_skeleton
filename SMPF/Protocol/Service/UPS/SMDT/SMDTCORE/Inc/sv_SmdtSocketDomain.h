@@ -1,0 +1,4 @@
+l_port:0x%x f_port:0x%x
+ip4_laddr:0x%x ip4_faddr:0x%x
+ip6_laddr
+ip6_faddr

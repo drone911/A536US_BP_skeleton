@@ -1,0 +1,6 @@
+[GL1 Error] Unsupported cipher algorithm (%d)
+[CipLdTds] command(%x), key0(%x), key1(%x), key2(%x), key3(%x)
+[CipLdTds] key4(%x), key5(%x), key6(%x), key7(%x)
+[cipherGoTds] command(%x), T1(%d), T2(%d), T3(%d), cdHandle(%x), frameNumber(%d)
+[SqIniCipherInitialise] l1DownlinkCpHandle(0x%x) l1UplinkCpHandleb(0x%x)
+[SqIniCipherBufferRelease] l1DownlinkCpHandle(0x%x) l1UplinkCpHandleb(0x%x)

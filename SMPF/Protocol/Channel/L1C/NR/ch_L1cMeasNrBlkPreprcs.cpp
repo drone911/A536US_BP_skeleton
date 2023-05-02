@@ -1,0 +1,36 @@
+##[NR_MEAS][SMTC_UPDATE] Ssb_BitMap(%d, %d) SsbPattern(%d) Duration(%d)
+##[NR_MEAS] Add Meas elements : ObjectId(%d), RsType(%d), MeasMode(%d), Arfcn(%d), NumCell(%d), SsbPattern(%d)
+##[NR_MEAS] Add Meas elements : SsbFrequency(%d), SubcarrierSpacing(%d), Periodicity(%d), NumSsbToMeasure(%d), SsbToMeasure(0x%x, 0x%x), SmtcIncluded(%d)
+##[NR_MEAS] MakeMeasInfo : Initial Plane Update => Active Plane(%d) Beam_num(%d) current_rxbeamidx(0x%03x)
+##[NR_MEAS] CSI-RS config : Band(%d), RefFreqCsiRs(%d), CSIRS_SCS(%d)
+##[NR_MEAS] CSI-RS config : AssocSsbFreq(%d), AssocSsbScs(%d), AssocSsbPeriodicity(%d), ScSsbFreq(%d), ScSsbScs(%d), ScSsbPeriodicity(%d),
+CsiRs_p[0x%x]: PCI(%d), NoOfPRBs(%d), StartPRB(%d), DensityPresence/Density(%d) ResListCnt(%d)
+CsiRsIndex(%d), SequenceGenerationConfig(%d), Periodicity(%d), offset(%d), AssociatedSsbIndex(%d)
+IsQCLWithSSB(%d), TimingOffset(%d), FreqDomainAlloc.choice(%d), FreqDomainAlloc.Row2[1](0x%x), FreqDomainAlloc.Row2[0](0x%x), l0(%d)
+CSI-RS BM ResConfigured:CellIndex(%d): CellConfiguredBm(0x%08x), ResConfiguredBm[0x%08x 0x%08x 0x%08x]
+##[NR_MEAS] Add Meas elements : ObjectId(%d) MeasMode(%d), NumLteMeasInput(%d), AgcGain[0](%d), AgcGain[1](%d), CarrierFreq(%d) AllowedMeasBandwidth(%d)
+##[NR_MEAS] Add Meas elements : [%d] CpType(%d) CellIndexEutra(%d), PhysCellId(%d), CellIndividualOffset(%d), TimingOffset(%d)
+##[NR_MEAS] Add Meas elements : ObjectId(%d) MeasMode(%d), CarrierFreq(%d), NumUtraMeasInput(%d)
+##[NR_MEAS] Add Meas elements : [%d] CellIndex(%d) PhysCellId(%d), TimingOffset(%d)
+Wrong Rat Type
+##[NR_MEAS][MS] Band(%d) Arfcn(%d) CellId(%d) SsbIdx(%d) TimingOffset(%d) SCS(%d) Periodicity(%d)
+##[NR_MEAS][MS][RF_MODULE_INIT] Band(%d) Freq(%d) Arfcn(%d) SFN(%d)
+##[NR_MEAS] Intra RxBeamSweep RxBeamNum(%d), BeamMap(%d), ModuleMonitorOn(%d)
+##[NR_MEAS] Intra RxBeamSweep RxBeamNum(%d), BeamMap(%d), ModuleMonitorOn(%d)
+##[NR_MEAS] Scell Case MeasMode(%d) BeamMap(%d), module_type(%d)
+##[NR_MEAS] Scell Case MeasMode(%d) BeamMap(%d), module_type(%d)
+##[NR_MEAS] Scell Case MeasMode(%d) BeamMap(%d), module_type(%d)
+##[NR_MEAS] Abnormal case..Please check MeasMode(%d)!!
+##[NR_MEAS] CalcCsiRsMtc: CsiRsIdx[%d] Periodicity(%d ms), Offset(%d slots) Scs(%d)
+##[NR_MEAS] CalcCsiRsMtc: Offset1[0](%d slots) Offset1[1](%d slots) Offset1[2](%d slots) Offset1[3](%d slots)
+##[NR_MEAS] CSI RS MTC[%d]: Offset(%d slots), Duration(%d slots), MaxPeriod(%d ms)
+##[NR_MEAS] GetCsiRsSlotConfig : SlotConfig INVALID(%d)!
+##[NR_MEAS] narrow beam(%d) => wide beam(%d)
+##[NR_MEAS] invalid narrow beam => current beam(%d)
+##[NR_MEAS] pending_monitor_schedule ON but module_monitor_on changed to OFF
+##[NR_MEAS] rf_module_monitor_en(%d) sch_exist(%d) is_cdrx(%d) >> sch_sinr_avg(%d) SCH_THR(%d) ssb_sinr_avg(%d) SSB_THR(%d)
+##[NR_MEAS] Serving Beam Meas !! (0x%x)
+##[NR_MEAS] GetBeamMap : SCELL_CA Meas !! (0x%x)
+##[NR_MEAS] GetMM_Info : Module_num(%d) Plane_num(%d) Beam_num(%d)
+##[NR_MEAS] GetMM_Info : L-Shape_Device Condition. Active_Plane(%d) Fixed_Plane(%d)
+##[NR_MEAS] GetMM_Info : Fixed Plane Mode! . Active_Plane(%d) Fixed_Plane(%d)

@@ -1,0 +1,5 @@
+ConvertPaltimeDomain - invalid RatType(%u)
+ConvertPaltimeDomain - CurFrame(%u) FrameNum(%u) RemainFrame(%u) RemainPaltimeUs(%d)
+ConvertPaltimeDomain - Last Paltime(%u) error, DiffTime(%u)
+ConvertPaltimeDomain - invalid RatType(%u)
+ConvertPaltimeDomainUsingValue - InputFrame(%u) TargetFrameNum(%u) InputPaltime(%u) RemainPaltimeUs(%d)

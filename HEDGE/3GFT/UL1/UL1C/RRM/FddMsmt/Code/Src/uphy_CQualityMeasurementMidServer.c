@@ -1,0 +1,6 @@
+Quality:isEventEvaluationCriteriaMet:currentCrcInfoMessage NULL
+Quality:isEventEvaluationCriteriaMet:currentCrcInfoMessage NULL
+indMsg returned from createUrrc_UphyQualityMeasurementIndMsg_t is NULL
+indMsg returned from createUrrc_UphyQualityMeasurementIndMsg_t is NULL
+numTrBlksBadSinceLastUpdate=%d > numTrBlksSinceLastUpdate=%d
+numTrBlksBadSinceLastUpdate=%d > numTrBlksSinceLastUpdate=%d

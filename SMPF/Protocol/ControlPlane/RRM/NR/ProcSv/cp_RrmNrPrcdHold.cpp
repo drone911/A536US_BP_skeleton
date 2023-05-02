@@ -1,0 +1,9 @@
+RrmNrPrcdHold::RrmNrPrcdHold()
+RrmNrPrcdHold::~RrmNrPrcdHold()
+RrmNrPrcdHold::DecideTriggerProcedure()
+RrmNrPrcdHold::DecideDeferHdlr()
+RrmNrPrcdHold::PreHdlr()
+RrmNrPrcdHold::PostHdlr()
+RrmNrPrcdHold::AbortHdlr(AborterPid(%d))
+RrmNrPrcdHold::RRM_RRM_HOLD_IND_Hdlr
+RrmNrPrcdHold::RRM_RRM_MEAS_STATE_CNF_Hdlr

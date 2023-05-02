@@ -1,0 +1,15 @@
+[I][[TCS_DFC_TYPE]] : 0x%x
+[I][[TCS_OPT_CARRIER_TYPE]] : 0x%x
+[I][[TCS_MAKE_TYPE]] : 0x%x
+[I][[TCS_CSG_SUPPORT]] : 0x%x
+[I][[TCS_UPGRADE_SRVCC]] : 0x%x
+[I][[TCS_UPGRADE_RSRVCC]] : 0x%x
+[I][[TCS_UPGRADE_ISR]] : 0x%x
+[I][[TCS_USIM_MIGRATION]] : 0x%x
+[I][[TCS_DISABLE_GSM_SEARCH]] : 0x%x
+[I][[TCS_DSDS_TYPE]] : 0x%x
+[I][[TCS_NR_SUPPORT]] : 0x%x
+[I][[TCS_NR_SA_SUPPORT]] : 0x%x
+[I][[TCS_ELEVATOR_MODE]] : 0x%x
+[I][[TCS_CDMA_SUPPORT]] : 0x%x
+[I][[TCS_KT_LTE_ROAMING]] : 0x%x

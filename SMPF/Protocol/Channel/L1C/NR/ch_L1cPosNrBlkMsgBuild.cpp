@@ -1,0 +1,5 @@
+##[NR_POS] Send_L1C_L1C_POSCTRLR_MEAS_CNF: Tid(%d), InternalResult(%d)
+##[NR_POS] Send PATH_CONFIG_REQ:: req_type(%d) num_of_cfg_cell(%d), scell_idx(%d), freq_info(%d, %d, %d), bw(%d)
+##[NR_POS] SendSCCPathRelease: num_rel_cell(%d), cell_info_idx(%d), skip_rf_path_off(%d)
+##[NR_POS] Send_L1C_L1C_SCCCTRLR_RESOURCE_REQ to SCCCTRLR: Mode(%d)
+##[NR_POS] Send_L1C_L1C_POSCTRLR_MEAS_IND: LbsErrorCause(%d) CurrentSfn(%d)

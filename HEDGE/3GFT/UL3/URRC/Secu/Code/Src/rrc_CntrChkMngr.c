@@ -1,0 +1,4 @@
+CntrChkMngr StartUpInit
+CntrChkMngr ShutdownDestroy
+CntrChkMgr init
+CntrChkMgr GetInstanceId creates instance

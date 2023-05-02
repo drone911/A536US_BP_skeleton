@@ -1,0 +1,7 @@
+[CL DELAY] Set MARCONI : dif (%d), aif(%d)
+[CL DELAY] %s : rat (%d), fbrx_cc(%d), tx_path(%d), set_bw(%d)
+[CL DELAY] %s : rx_mode (%d), rx_type(%d)
+[CL DELAY] %s : RXF_MIXER_BYPASS (%d), RXF_MIXER_FREQ_VALUE(%d)
+[RxFilter] Dump :: [%s] Addr[0x%08x], Data[0x%08x])
+[RxFilter_DIF] Dump :: [%s] Addr[0x%08x], Data[0x%08x])
+[RXSAMPLER] Dump :: [%s] Addr[0x%08x], Data[0x%08x])

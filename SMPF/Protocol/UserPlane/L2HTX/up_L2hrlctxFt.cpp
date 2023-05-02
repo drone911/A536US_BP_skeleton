@@ -1,0 +1,32 @@
+[RLC TX] L2LMACTX_L2HRLCTX_NEW_TX_STOP_REQ for PathChange
+[RLC TX] L2LMACTX_L2HRLCTX_NEW_TX_STOP_REQ for PROC_STATUSPDU
+[RLC TX] L2HRLCTX_L2HPDCPTX_PROC_STATUSPDU_REQ [LcId: %d, pCtrlPdu: %d, CtrlPduLen: %d, PdcpSnSize: %d
+[RLC TX] L2LMACTX_L2HRLCTX_DISCARD_DONE_IND for SRB
+[RLC TX] L2HRLCTX_L2LMACTX_NEW_TX_STOP_CNF:Cause(%d)
+[RLC TX] L2LMACTX_L2HRLCTX_DISCARD_DONE_IND
+[RLC TX] L2HPDCPTX_L2HRLCTX_PROC_STATUSPDU_CNF
+[RLC TX] L2HRLCRETX_L2HRLCTX_DISCARD_SRB_PDU_REQ
+[RLC TX] L2LMACTX_L2HRLCTX_DISCARD_DONE_IND
+[LcId:0x%02x] L2HRLCTX_L2LMACTX_RELEASE_BY_CONFIG_REQ
+[LcId:0x%02x] Release Fail
+[RLC TX] RLC_TX_CONFIG_REQ:0x%x
+[RLC TX] CellGrpId(0x%02x)
+[RLC TX] CellGrpId(0x%02x)
+[LcId:0x%02x] Trigger Release
+[LcId:0x%02x] Wrong LcId
+[LcId:0x%02x] L2HRLCTX_ConfigAddMod
+[LcId:0x%02x] Reset Fail
+[LcId:0x%02x] Reset Success
+[LcId:0x%02x] Trigger Release by RlcConfigType
+[LcId:0x%02x] L2HRLCTX_ConfigAddMod, NrOpMode(%d),_PCellFr2On(%d)
+[LcId:0x%02x] Modify Fail
+[LcId:0x%02x] Modify Success
+[LcId:0x%02x] Setup Fail
+[LcId:0x%02x] Setup Success
+[RLC TX] RLC_TX_RELEASE_REQ
+[LcId:0x%02x] Release
+[LcId:0x%02x] Release Success
+[LcId:0x%02x] Release Fail
+[RLC TX] RLC_TX_REESTABLISH_REQ
+[RLC TX] RLC_TX_TX_RESUME_REQ
+[RLC TX] Init Reset flag

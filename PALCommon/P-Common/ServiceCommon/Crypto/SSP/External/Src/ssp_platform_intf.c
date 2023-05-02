@@ -1,0 +1,2 @@
+Entropy before
+Entropy after

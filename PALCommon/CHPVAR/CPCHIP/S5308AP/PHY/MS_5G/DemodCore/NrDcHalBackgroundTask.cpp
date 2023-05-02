@@ -1,0 +1,21 @@
+[DCCCH] ERROR: controlResourceSetId(%d)
+[DCCCH] ERROR: controlResourceSetId(%d)
+[DCCCH][SetCInitvalue] presentflag(common/dedi)(%d)/(%d), css_yinit(0x%x), uss_yinit(0x%x/0x%x/0x%x/0x%x) NrDcDevBgTask_CchReconfig: done(%d)
+[DCCCH]hashY ssId(%d) 0[%d]1[%d]2[%d]3[%d]4[%d]5[%d]
+[DCCCH][CalNumCCE] Coreset Id is mismatched! present_flag(0x%x), coresetId(%d), Indicated CoresetId(%d)
+[DCCCH][CalNumCCE] ssId(%d) rrcSSId(%d), coresetId(%d), rrcCoresetId(%d),coresetlength(%d), assigned_cchrbnum(%d), m_NumCCE(%d) totalCCHRE(%d) NumREperCCE(%d)
+[DCCCH] searchSpaceId(%d), XRSconfig_enableFlag(%d), MAX_CAND_NUM AL1/2/4/8/16(%d/%d/%d/%d/%d)
+[DCCCH] searchSpaceId(%d), CC_CAND_NUM AL1/2/4/8/16(%d/%d/%d/%d/%d)
+[DCCCH] Wrong Coreset Index :coresetId(%d), csIdx(%d), searchSpaceId(%d), ssId(%d)
+[DCCCH][SetCoresetInfoforDD]coresetId(%d), ra_info(0x%x), ra_info1(0x%x), first_prg_offset(%d), bwpStartCrb(%d), bundle_info(0x%x), RBoffset_FFT(%d)
+[DCCCH]CalDCILength,lengthofFMT0/1/2/3(2/2/2/2)(%d),carrierInd(%d),FDRAULT0/T1/InitUL(2/2/2)(%d),fmt01BWP/UL_SUL/TDRA/frhop/DLaIdx1/DLaIdx2/TPC/SRS(%d), fmt01PrecInfo/antPorts/CSI/cbg/asso_PTRS_DMRS/beta/DmrsSeq/UL_SCH_indi(%d),FDRADLT0/T1/C0_Init(2/2/2)(%d), fmt11BWP/TDRA/vrb2prb/prbB/rateM/zpCsi/DLaIdx/Pdsch2HarqF(%d),antPorts/transC/cbgT/cbgFl/DmrsS(%d), NrCaState(%d), DciAlignInfo(0x%08x)
+[DCCCH]Set Forced PUSCH maxRank 1 when NR_TRANSFORM_PRECODER is ENABLED, rrc PUSCH maxRank(%d)
+[DCCCH] AntPortsFail! dmrs_UplinkForPusch_presentflag(%d),
+[DCCCH]CalFAMetric TH_pm01/02(4/4)(%d), TH_pm03/04(4/4)(%d), TH_pm11/12(4/4)(%d), TH_pm13/14(4/4)(%d), TH_pm21/22(4/4)(%d), TH_pm23/24(4/4)(%d),TH_pm31/32(4/4)(%d), TH_pm33/34(4/4)(%d)
+[DCCCH]CalFAMetric TH_ser01/02(4/4)(%d), TH_ser03/04(4/4)(%d), TH_ser11/12(4/4)(%d), TH_ser13/14(4/4)(%d), TH_ser21/22(4/4)(%d), TH_ser23/24(4/4)(%d),TH_ser31/32(4/4)(%d), TH_ser33/34(4/4)(%d)
+[BACKGROUND TASK] NrDcDevBgTask_CchReconfig: done(%d)
+[DCCCH][CalRAsize]nRB(%d), typeRA (%d) raSize(%d), rbgConfig(%d), LinkType(%d), bwpStartPrb(%d)
+[DCCCH] CalAntPortsFail! Check MappingType(%d),transformPrecoder(%d), maxLength(%d)
+[DCCCH] CalAntPortSize(%d), MappingType(%d),transformPrecoder(%d), dmrs_TypeUL(%d), maxLength(%d)
+[DCCCH] CchReconfig_SetStackModeOn
+[BACKGROUND TASK] NrDcDevBgTask_CchReconfig: done(%d)

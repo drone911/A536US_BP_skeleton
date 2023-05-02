@@ -1,0 +1,6 @@
+RrmNrPrcdModemStop::RRM_RRC_MODEM_STOP_REQ_Hdlr
+RrmNrPrcdModemStop::RRM_L1C_ALL_STOP_CNF_Hdlr
+RRM_L1C_ALL_STOP_CNF Result(FAILURE)
+RrmNrPrcdModemStop::RRM_RRM_MEAS_STATE_CNF_Hdlr
+RrmNrPrcdModemStop::RRM_RRM_MEAS_STATE_CNF_Hdlr - RRM_RRM_MEAS_STATE_CNF Result(%d)
+RrmNrPrcdCellConfigStop::RRM_L1C_ALL_STOP_CNF_Hdlr::CanNot AllocMsg about RRC_RRM_MODEM_STOP_CNF

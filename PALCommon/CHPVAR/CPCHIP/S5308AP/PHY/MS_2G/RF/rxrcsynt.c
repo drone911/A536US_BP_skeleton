@@ -1,0 +1,7 @@
+RcSynthTask: ESPI_CFG_REG(0x%x)
+RcSynthTask: STATUS_REG(0x%x), TXFIFO:(%d), IDLE state(%x), TXFIFO_FULL(%x), TXFIFO_EMPTY(%x)
+RcSynthTask after: STATUS_REG(0x%x), number:%d, TXFIFO:(%d), IDLE state(%x), TXFIFO_FULL(%x), TXFIFO_EMPTY(%x)
+RcSynthTask:typCmd(0x%x),mipi_size(%d),number(%d), polar(%d), bandCmd(0x%x)
+mipi_path SW(0x%x)
+DGC gain (0x%x)
+SM_MIPI_TRIGGER_DATA / PATH / NUM / (0x%x), (0x%x), (0x%x)

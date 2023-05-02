@@ -1,0 +1,1 @@
+[HALLMAC_3GC][WARNING]NullFunc()!!

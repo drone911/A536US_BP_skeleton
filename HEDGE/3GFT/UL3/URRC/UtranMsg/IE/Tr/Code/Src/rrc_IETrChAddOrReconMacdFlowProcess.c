@@ -1,0 +1,7 @@
+rrc_ieTrChAddOrReconMacdFlow_getMacHsQtoDeleteList: Unsupported protocol version
+rrc_ieTrChAddOrReconMacdFlow_getMacHsQtoAddOrReconList: Unsupported protocol version
+rrc_ieTrChAddOrReconMacdFlow_getMacHsPduSizeInfo: Unsupported protocol version
+Fail to get MacHsQtoDeleteList
+Fail to get MacHsQtoAddOrReconList
+Fail to get MacHsPduSizeInfo
+rrc_ieTrChAddOrReconMacdFlow: [FAILURE] - Q id in add AND delete list

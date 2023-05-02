@@ -1,0 +1,8 @@
+[DVFS_CPU_LOG] [SetMinLockFreqScenario] Fail Owner(%d) Scenario(%d) Filename(%s) Linenum(%d)
+[DVFS_CPU_LOG] [SetMinLockFreqScenario] Owner(%d,%s) Scenario(%d,%s) Filename(%s) Linenum(%d)
+[DVFS_CPU_LOG] [RemoveMinLockFreqScenario] Fail Owner(%d) Filename(%s) Linenum(%d)
+[DVFS_CPU_LOG] [RemoveMinLockFreqScenario] Owner(%d,%s) Filename(%s) Linenum(%d)
+[DVFS_CPU_LOG] [SetMaxLockFreqScenario] Fail Owner(%d) Scenario(%d) Filename(%s) Linenum(%d)
+[DVFS_CPU_LOG] [SetMaxLockFreqScenario] Owner(%d,%s) Scenario(%d) Filename(%s) Linenum(%d)
+[DVFS_CPU_LOG] [RemoveMaxLockFreqScenario] Fail Owner(%d) Filename(%s) Linenum(%d)
+[DVFS_CPU_LOG] [RemoveMaxLockFreqScenario] Owner(%d,%s) Filename(%s) Linenum(%d)

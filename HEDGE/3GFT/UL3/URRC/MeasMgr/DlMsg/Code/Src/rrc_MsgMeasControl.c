@@ -1,0 +1,78 @@
+rrc_MsgMeasControl_GetMeasType: no measurement type - Asn_MeasurementCommand_release_chosen
+rrc_MsgMeasControl_GetMeasType: default - unkown measurement type
+rrc_MsgMeasControl_GetMeasType: unkown measurement type
+rrc_MsgMeasControl_GetMeasType: no measurement type - Asn_MeasurementCommand_release_chosen
+rrc_MsgMeasControl_GetMeasType: default - unkown measurement type
+rrc_MsgMeasControl_GetMeasType: unkown measurement type
+rrc_MsgMeasControl_GetMeasType: no measurement type - Asn_MeasurementCommand_release_chosen
+rrc_MsgMeasControl_GetMeasType: default - unkown measurement type
+rrc_MsgMeasControl_GetMeasType: unkown measurement type
+rrc_MsgMeasControl_GetMeasType: no measurement type - Asn_MeasurementCommand_release_chosen
+rrc_MsgMeasControl_GetMeasType: default - unkown measurement type
+rrc_MsgMeasControl_GetMeasType: unkown measurement type
+rrc_MsgMeasControl_GetMeasType: no measurement type - Asn_MeasurementCommand_release_chosen
+rrc_MsgMeasControl_GetMeasType: default - unkown measurement type
+rrc_MsgMeasControl_GetMeasType: unkown measurement type
+rrc_MsgMeasControl_GetMeasType: no measurement type - Asn_MeasurementCommand_release_chosen
+rrc_MsgMeasControl_GetMeasType: default - unkown measurement type
+rrc_MsgMeasControl_GetMeasType: unkown measurement type
+rrc_MsgMeasControl_GetMeasType: no measurement type - Asn_MeasurementCommand_release_chosen
+rrc_MsgMeasControl_GetMeasType: default - unkown measurement type
+rrc_MsgMeasControl_GetMeasType: unkown measurement type
+rrc_MsgMeasControl_GetMeasType: no measurement type - Asn_MeasurementCommand_release_chosen
+rrc_MsgMeasControl_GetMeasType: default - unkown measurement type
+rrc_MsgMeasControl_GetMeasType: unkown measurement type
+rrc_MsgMeasControl_SetupMeasFailure: rrc_MsgMeasControl_getRrcTransId is NULL
+rrc_MsgMeasControl_SetupMeasFailure: theCompressedModeInfo_1 is NULL
+rrc_MsgMeasControl_SetupMeasFailure: theCompressedModeInfo_2 is NULL
+rrc_MsgMeasControl_SetupMeasFailure: theCompressedModeInfo_3 is NULL
+rrc_MsgMeasControl_SetupMeasFailure: theCompressedModeInfo_4 is NULL
+Asn_r3_v390nonCriticalExtensions_present
+Asn_ue_Positioning_Measurement_v390ext_present
+Asn_ue_positioning_ReportingQuantity_v390ext_present
+[ Asn_vertical_Accuracy_present] V Accuracy Length : %d Value : %d
+Measurement Validity is present from v390nonCriticalExtensions
+rrc_MsgMeasControl_SetupMeasReportFailure: NewAdditionalMeasList_1 is NULL
+rrc_MsgMeasControl_SetupMeasReportFailure: NewAdditionalMeasList_2 is NULL
+rrc_MsgMeasControl_SetupMeasReportFailure: NewAdditionalMeasList_3 is NULL
+rrc_MsgMeasControl_SetupMeasReportFailure: NewAdditionalMeasList_3 is NULL
+Debug: interRATCellInfoIndication [%d]
+rrc_MsgMeasControl_GetMeasCmd Failure: No R5 critical extension exist
+rrc_MsgMeasControl_GetMeasCmdFailure: Unsupported Protocol Version
+rrc_MsgMeasControl_getRrcTransIdUnknown Protocol Version
+rrc_MsgMeasControl_msgSendIndicationToConsumer: error - generate indication FAILED!
+rrc_MsgMeasControl_msgDestroy : transId is NULL
+rrc_MsgMeasControl_GetMeasCmdFailure: No R5 critical extension exist
+rrc_MsgMeasControl_msgProcessUnknown Protocol Version
+rrc_MsgMeasControl_msgCreateUlFailure : transId is NULL
+rrc_MsgMeasControl_msgCreateUlFailure: called without error
+rrc_MsgMeasControl_msgAutonomousHandleFailure : transId is NULL
+rrc_MsgMeasControl_msgAutonomousHandleFailure: called without error
+rrc_MsgMeasControl_msgIeCreate msg protocol version: %s
+rrc_MsgMeasControl_msgIeCreate msg critical extension from R%u extension
+rrc_MsgMeasControl_msgIeCreateFailure: Unsupported type
+Ignoring intraFreqEvent_1d_r5 IE
+rrc_MsgMeasControl_msgIeCreateFailure: Unsupported type
+Ignoring intraFreqEvent_1d_r5 IE
+rrc_MsgMeasControl_msgIeCreateFailure: Unsupported type
+rrc_MsgMeasControl_msgIeCreateFailure: Unsupported type
+rrc_MsgMeasControl_msgIeCreateFailure: Unsupported type
+rrc_MsgMeasControl_msgIeCreateFailure: Unsupported type
+rrc_MsgMeasControl_msgIeCreateFailure: Unsupported type
+rrc_MsgMeasControl_msgIeCreateFailure: Unsupported type
+rrc_MsgMeasControl_iterate itConSpec.parents_child_ptr is NULL
+rrc_MsgMeasControl_GetMeasCmd Failure: No R5 critical extension exist
+rrc_MsgMeasControl_CheckAdditionalMeasValidityFailure: Unsupported Protocol Version
+rrc_MsgMeasControl_CheckAdditionalMeasValidity: TempMeasInst is NULL
+rrc_MsgMeasControl_GetMeasCmd Failure: No R5 critical extension exist
+GetIEMeasurementReportingModeFailure: Unsupported Protocol Version
+Protocol Version: R5
+Protocol Version: R3
+Protocol Version: R5
+Protocol Version: R4
+Protocol Version: R6
+Protocol Version: R7
+Protocol Version: R8
+Protocol Version: R9
+Protocol Version: R10
+Protocol Version: R11

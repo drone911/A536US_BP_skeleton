@@ -1,0 +1,8 @@
+DecideActionForTriggerService (Service : %s, Stack : %s, Rat : %s, Result : %s)
+VoLteCall type service is started in StackStandByState(FeDV=ON), Send ACTIVATE_IND_SAMESTACK(FeDV=OFF)
+%s(NonConcurrent) is started during other stack STANDBY_ACTIVATE policy service is active, Send STANDBY_IND_SAMESTACK(FeDV=ON)
+Action for Trigger Service (Service : %s) : %s)
+Action for Trigger Service (Service : %s) : NO_ACTION)
+DecideActionListForActiveService (Service : %s, Stack : %s, Result : %s)
+Action for Active Service (Service : %s) : %s)
+Action for Active InfoChangedService (NextService : %s) : %s)

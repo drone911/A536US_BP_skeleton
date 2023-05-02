@@ -1,0 +1,9 @@
+IE Create [%s]
+rrc_IEUmDomainSpecificAccessRestr_IsAccessClassBarredaccessClass = %d
+rrc_IEUmDomainSpecificAccessRestr_IsAccessClassBarredCS Domain Acess Class Asn_restriction_chosen
+rrc_IEUmDomainSpecificAccessRestr_IsAccessClassBarredCS Domain Acess Class %d
+rrc_IEUmDomainSpecificAccessRestr_IsAccessClassBarredaccessClass = %d
+rrc_IEUmDomainSpecificAccessRestr_IsAccessClassBarredPS Domain Acess Class Asn_restriction_chosen
+rrc_IEUmDomainSpecificAccessRestr_IsAccessClassBarredPS Domain Acess Class %d
+StartUpCreate: ClassData_ptr is NULL
+StartUpCreate: Class structure memory already allocated!

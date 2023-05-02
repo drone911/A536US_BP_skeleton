@@ -1,0 +1,8 @@
+[N :MM,%d] [%s,%d] SetNextNrmmState state(%s,%s)
+[N :MM,%d] [%s,%d] SetNextNrmmState state(%s,%s)
+[N :MM,%d] [%s,%d] SetNextNrmmState state(%s,%s)
+[N :MM,%d] [%s,%d] SetNextNrmmState state(%s,%s)
+[N :MM,%d] [%s,%d] SetNextNrmmState state(%s,%s)
+[N :MM,%d] [%s,%d] SetNextNrmmState state(%s,%s)
+[N :MM,%d] [%s,%d] SetNextNrmmState state(%s,%s)
+[N :MM,%d] [%s,%d] SetNextNrmmState state(%s,%s)

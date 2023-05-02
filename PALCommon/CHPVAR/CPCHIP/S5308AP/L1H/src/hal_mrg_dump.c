@@ -1,0 +1,12 @@
+HALDUMP
+HALDUMP
+[addr] 0x%08X [data] 0x%08X
+[addr] 0x%08X [data] 0x%08X 0x%08X
+[addr] 0x%08X [data] 0x%08X 0x%08X 0x%08X
+[addr] 0x%08X [data] 0x%08X 0x%08X 0x%08X 0x%08X
+[ERROR]UNDEFINED DUMPMODE
+HALDUMP: Type[%s], start_addr[0x%08X], end_addr[0x%08X], caller[%s]
+[ERROR]MODEM_RFD ENUM ERROR
+[WARNING]ADDRESS RANGE ERROR
+[WARNING]EXCEEDED MAX MODENUM
+[MRGDUMP][WARNING]NullFunc()!!

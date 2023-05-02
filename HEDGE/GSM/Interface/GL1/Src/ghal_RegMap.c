@@ -1,0 +1,3 @@
+[2G_REG]GHAL_SetUpModemReg
+[2G_REG] pGHAL_REG_GSM_TCU0:%p
+[2G_REG]GHAL_SetDownModemReg

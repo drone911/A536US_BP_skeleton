@@ -1,0 +1,6 @@
+[SIPC_1_SAP] Tx NS_SIM_CONNECTION_REQ : SAP connection type (0x%x -> 0x%X)
+[SIPC_0_SAP] Tx NS_SIM_CONNECTION_REQ : SAP connection type (0x%x -> 0x%X)
+[SIPC_1_SAP] Tx NS_SIM_TRANSFER_APDU_REQ (Data len=%d)
+[SIPC_0_SAP] Tx NS_SIM_TRANSFER_APDU_REQ (Data len=%d)
+[SIPC_1_SAP] Tx NS_SIM_POWER_CHANGE_REQ (0x%X -> 0x%X)
+[SIPC_0_SAP] Tx NS_SIM_POWER_CHANGE_REQ (0x%X -> 0x%X)

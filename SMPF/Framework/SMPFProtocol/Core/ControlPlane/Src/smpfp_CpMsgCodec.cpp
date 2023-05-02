@@ -1,0 +1,3 @@
+MsgCodecBase::~MsgCodecBase()
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Result : %d

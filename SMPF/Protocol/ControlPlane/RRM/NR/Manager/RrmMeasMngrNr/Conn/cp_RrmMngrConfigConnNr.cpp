@@ -1,0 +1,3 @@
+RrmMngrConfigConnNr()
+~RrmMngrConfigConnNr()
+RrmMngrConfigConnNr::Init

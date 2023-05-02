@@ -1,0 +1,1 @@
+myNoOfCellResults >= Asn_maxCellMeas

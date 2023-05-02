@@ -1,0 +1,30 @@
+[rrc_IEUePositionMeasResults_SetPositionEstimate ]INFO
+[rrc_IEUePositionMeasResults_SetGPSMeasurementResult ]INFO
+[GPS Measurement first ] : SatelliteID = %d
+[GPS Measurement in loop ] : SatelliteID = %d
+[rrc_IEUePositionMeasResults_SetPositionEstimateGanssData ]INFO
+[rrc_IEUePositionMeasResults_setPEGanssPositionData ]INFO PositionData :%d
+[rrc_IEUePositionMeasResults_setPEGanssTod ]INFO Ganss_tod :%d
+[rrc_IEUePositionMeasResults_setPEGanssTimeId ]INFO Ganss_tim id :%d
+[rrc_IEUePositionMeasReasults_SetGanssMeasuredResults ]INFO
+[Asn_utran_GANSSReferenceTimeResult_chosen ]INFO ganss Time_id %d
+[Asn_ganssReferenceTimeOnly_chosen ]INFO ganss Time_id %d
+[rrc_IEUePositionMeasResults_setGanssGenericMeasInfo ]INFO
+[rrc_IEUePositionMeasResults_setGanssGenericMeasInfo ]myAsn1DataExtr7 is NULL
+[rrc_IEUePositionMeasResults_setGanssGenericMeasSignal ]INFO
+[rrc_IEUePositionMeasResults_setGanssGenericMeasSignal ]myAsn1DataExtr7 is NULL
+[rrc_IEUePositionMeasResults_setGanssGenericMeasPara ]INFO
+[rrc_IEUePositionMeasResults_setGanssGenericMeasPara ]myAsn1DataExtr7 is NULL
+[rrc_IEUePositionMeasResults_setGAMGanssTod ]INFO ganss_tod =%d
+[rrc_IEUePositionMeasResults_SetGANSSAdditionalDataReq ]INFO
+[rrc_IEUePositionMeasResults_SetGANSSRequestedGenericAssDataList ]INFO
+[rrc_IEUePositionMeasResults_SetGANSSRequestedGenericAssDataList ]source present
+[rrc_IEUePositionMeasResults_SetGANSSRequestedGenericAssDataList ]Asn_GanssReqGenericData_ganssId_present
+[rrc_IEUePositionMeasResults_SetGANSSRequestedGenericAssDataList ]Asn_ganssDifferentialCorrection_present
+[rrc_IEUePositionMeasResults_SetGANSSRequestedGenericAssDataList ]Asn_ganssTimeModelGNSS_GNSS_present
+[rrc_IEUePositionMeasResults_SetGANSSRequestedGenericAssDataList ]Asn_ganssDataBits_present
+[rrc_IEUePositionMeasResults_SetGANSSRequestedGenericAssDataList ]Asn_GanssReqGenericData_ganssId_present
+[rrc_IEUePositionMeasResults_SetGANSSRequestedGenericAssDataList ]myAsn1DataExtv7 is NULL
+[rrc_IEUePositionMeasResults_setGanssAddSatData ]INFO
+[rrc_IEUePositionMeasResults_setGanssAddSatData ]myAsn1DataExtr7 is NULL
+[rrc_IEUePositionMeasResults_SetErrorCauseGPS ] Not within limit (%d)

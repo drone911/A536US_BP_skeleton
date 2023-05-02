@@ -1,0 +1,1 @@
+sendMsgData is NULL

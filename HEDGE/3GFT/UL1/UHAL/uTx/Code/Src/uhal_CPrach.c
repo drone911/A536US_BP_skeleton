@@ -1,0 +1,2 @@
+uhal_CPrach_storePreambleSignatures: numSignatures %d
+uhal_CPrach_initAvailASPerSfn: subChannelBitMask %X

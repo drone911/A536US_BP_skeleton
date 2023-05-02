@@ -1,0 +1,5 @@
+[GL1 Error] Invalid bandmode (%d)
+[GL1 Error] Invalid band (%d)
+[GL1 Error] Invalid channelType (%d)
+[GL1 Error] Invalid channelType (%d)
+[GL1 Error] Invalid Cipher silAlgorithm (%d)

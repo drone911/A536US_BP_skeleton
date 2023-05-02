@@ -1,0 +1,7 @@
+[PHY_TDP_CFG(valid/enabled)] AGC(%d/%d), AFC(%d/%d), STR(%d/%d)
+[PHY_TDP_CFG(valid/enabled)] AGC(%d/%d), AFC(%d/%d), STR(%d/%d), SLO_flag (%d), SLO_offset(%d)
+[PHY_TDP_CFG (SCELL ACT, always ON)
+[PHY_TDP_CFG (SCELL DEACT, always OFF)
+[PHY_TDP_CFG (SCELL DEACT) SLO_flag (%d), SLO_offset(%d)
+[PHY_TDP_CFG (SSB PATH control ON, always ON)
+[PHY_TDP_CFG (SSB PATH control OFF, always OFF)

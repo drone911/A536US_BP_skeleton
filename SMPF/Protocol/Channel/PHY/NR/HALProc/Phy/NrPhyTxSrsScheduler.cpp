@@ -1,0 +1,10 @@
+[SRS] SrsScheduler(Periodic) : [idx %d][rscId %d]
+[SRS] SrsScheduler(SemiPersistent) : [idx %d][rscId %d]
+[SRS] SrsScheduler(Aperiodic) : [idx %d][rscId %d]
+[SRS] Antenna Switching : [T %d][R %d][portIdx %d]
+[SRS] Antenna Switching mismatch : [T %d][R %d][sumPort %d]
+[SRS] SrsHandleFeedbackResult : [jobId %d][SpDeactTime.sfn %d][SpDeactTime.slot %d]
+[SRS] SrsNtmScheduler(Periodic) : [idx %d][rscId %d]
+[SRS] SrsNtmScheduler : Invalid NTM SRS Resource Tpe : %d
+[SRS] calcTargetTiming(aperiodic) : [N2 %d][k %d][dciSlotPos %d][targetSlot %d][pdcchLastSym %d][timeInterval %d]
+[SRS] SrsCalcTargetTiming : [startSym %d][lengthSym %d][targetTime.sfn %d][targetTime.slot %d][targetTime.symbol %d][jobId %d]

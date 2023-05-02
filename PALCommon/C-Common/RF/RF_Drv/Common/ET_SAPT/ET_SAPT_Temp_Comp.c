@@ -1,0 +1,20 @@
+[RF ET] Get Temp GPADC error
+[RF ET] Get Temp GPADC : Current_GPADC(%d) , Filtered GPADC(%d)
+[RF ET] Temp Comp : RAT(%d) Current GPADC(%d) OffsetX(%d), OffsetY(%d)
+[RF ET] Temp Comp : RAT(%d) Ref GPADC(%d) OffsetX(%d), OffsetY(%d)
+[RF ET] Temp Comp : RAT(%d) Calc OffsetX(%d), Calc OffsetY(%d)
+[RF ET] Ref Temperature ADC value is Zero
+[RF ET] Temperature ADC value is Zero!!
+[RF ET] ET_SAPT_Get_TempTracking_Param:: invalid RAT(%d) or CC (%d)
+[RF ET] ET_SAPT_TempTrackingParam_Init:: DISABLE status - rat(%d), cc%d)
+[RF ET] ET_SAPT_TempTrackingParam_Init:: Null pointer error - rat(%d), cc%d)
+[RF ET] ET_SAPT_TempTrackingParam_Init:: invalid RAT(%d) or CC (%d)
+[RF ET] ET_SAPT_Set_TempTrackingParam:: check param - band(%d), dpd_idx(%d), freq(%d), tx_bw(%d)
+[RF ET] ET_SAPT_Set_TempTrackingParam:: Null pointer error - rat(%d), cc%d)
+[RF ET] ET_SAPT_Set_TempTrackingParam:: invalid RAT(%d) or CC (%d)
+[RF ET] ET_SAPT_Set_TempTracking_Status:: rat(%d), cc%d, status(%d))
+[RF ET] ET_SAPT_Set_TempTracking_Status:: check param - band(%d), dpd_idx(%d), freq(%d), tx_bw(%d)
+[RF ET] ET_SAPT_Set_TempTracking_Status:: Null pointer error - rat(%d), cc%d)
+[RF ET] ET_SAPT_Set_TempTracking_Status:: invalid RAT(%d) or CC (%d)
+[RF ET] ET_SAPT_TempTracking_OnOff:: Null pointer error - rat(%d), cc%d)
+[RF ET] ET_SAPT_TempTracking_OnOff:: invalid RAT(%d) or CC (%d)

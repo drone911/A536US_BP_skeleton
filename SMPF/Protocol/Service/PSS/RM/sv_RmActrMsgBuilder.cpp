@@ -1,0 +1,1 @@
+MsgBuild(%s): %s

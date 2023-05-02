@@ -1,0 +1,12 @@
+(F)INVALID search space info: ssId(%d) m_CcIdx(%d)
+(F)[DCCCH][ClearCoresetInfo] Invalid Param mode(%d) coresetId(%d)
+[DCCCH] Reconfiguration is ongoing. Do not set CCH.bk_cch_reconfig_flag(0x%x), idx(%d)
+[DCCCH] Do not set PDCCH Configuration - CDRX SLEEP STATE
+[DCCCH] REG: nr_coreset_on - (0x%X), monitoringCoresetNum(%d), MonitoringNum_this_slot0123(1/1/1/1)(%d)
+Ambiguity RRC param! change dci size m_AmbiguityRRC_MONITOR_STATE(%d) cssrrcCoresetId(%d) ussrrcCoresetId(%d) bundleinfoCurrent(0x%x),bundleInfo_dediSS(0x%x) CurCSra_info1(0x%x),dediCsra_info1(0x%x)
+Change Normal monitor nrcch_dci_size(0x%x),m_AmbiguityRRC_MONITOR_STATE(%d)
+(F)Invalid Periodicity(%d)
+[DCCCH]SetSearchSpaceInfo: ssId(%d), m_next_slot_idx(%d), m_next_slot_idx_frame(%d), monitoringSlotPeriodicity(%d), Offset(%d), duration(%d), rntiBitmap(0x%X),mon_rntiBitmap_SS(0x%X),ssType/IsPdcchMonitoringRequired(1/1)(%d), isstartCCEcaldone(%d)
+(F)Invalid dci_Formats(%d)
+(F)Invalid ssType(%d)
+(F)[DCCCH][SetCoresetInfo] Invalid coresetId(%d)
